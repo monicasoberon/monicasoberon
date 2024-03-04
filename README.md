@@ -1,6 +1,6 @@
 # Hi there, I'm Mónica Soberón Zubía! 👋
 
-I'm a B.S. student in Computer Science and Technology Engineering at [Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)](https://www.itesm.mx/), passionate about data science and innovation. I hold both Mexican and American citizenship, and you can reach me at [monicasoberon2747@gmail.com](mailto:monicasoberon2747@gmail.com).
+I'm a B.S. student in Computer Science and Technology Engineering at [Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)](https://www.itesm.mx/), passionate about data science and innovation. You can reach me at [monicasoberon2747@gmail.com](mailto:monicasoberon2747@gmail.com).
 
 ## 🔧 Skills
 
