@@ -46,4 +46,4 @@ I'm a B.S. student in Computer Science and Technology Engineering at [Instituto 
 
 ## 📫 Let's Connect!
 
-Feel free to connect with me on linkedin.com/in/mónica-soberón-a175282b5 or send me an email at monicasoberon2747@gmail.com . I'm always open to discussions, collaborations, and new opportunities!
+Feel free to connect with me on https://linkedin.com/in/mónica-soberón-a175282b5 or send me an email at monicasoberon2747@gmail.com . I'm always open to discussions, collaborations, and new opportunities!
