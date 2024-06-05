@@ -23,18 +23,15 @@ I'm a B.S. student in Computer Science and Technology Engineering at [Instituto 
 
 ### 1. MEDBOT - Intelligent Pill Dispenser for Children
 - Developed to combat child poisoning caused by medicine overdoses.
-- Integrated sensors and actuators for precise pill dispensing and logs using SQL, Python, CLI, C++ and Arduino.
-
+- Integrated sensors and actuators for precise pill dispensing and logs using SQL, Python, CLI, C++, and Arduino.
 
 ### 2. Personal Financial Data Analysis Project
 - Analyzed personal financial data using Python in Google Colab.
 - Built a linear regression model for predicting financial outcomes.
 
-
 ### 3. SARS-CoV-2 Alpha Variant Analysis Project
 - Conducted a global analysis of the SARS-CoV-2 Alpha variant using R and Bioconductor Packages.
 - Visualized DNA base compositions and genetic relationships.
-
 
 ## 🌐 Leadership and Activities
 
@@ -46,4 +43,4 @@ I'm a B.S. student in Computer Science and Technology Engineering at [Instituto 
 
 ## 📫 Let's Connect!
 
-Feel free to connect with me on https://linkedin.com/in/mónica-soberón-a175282b5 or send me an email at monicasoberon2747@gmail.com . I'm always open to discussions, collaborations, and new opportunities!
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/monica-soberon) or send me an email at [monicasoberon2747@gmail.com](mailto:monicasoberon2747@gmail.com). I'm always open to discussions, collaborations, and new opportunities!
